@@ -1,5 +1,5 @@
  // last key pressed time, to handle long press behavior
- // Still working on this excisted code
+ // Still working on this existed code
     private float lastKeyDown;
 
 
